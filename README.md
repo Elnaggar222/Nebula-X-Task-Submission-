@@ -3,8 +3,7 @@
 ## 🌐 **Live Demo**
 
 Check out the live demo of the project on GitHub Pages:  
-[Live Demo Link]([https://[YourGitHubUsername].github.io/[RepoName]](https://elnaggar222.github.io/Nebula-X-Task-Submission-/
-))
+[Live Demo Link]([https://[YourGitHubUsername].github.io/[RepoName]](https://elnaggar222.github.io/Nebula-X-Task-Submission-/))
 
 
 This project is a test task for a front-end developer role at **Nebula-X Company**. It focuses on creating a responsive and visually appealing homepage with several sections, animations, and design techniques. The goal was to deliver a fully functional and polished user interface.
